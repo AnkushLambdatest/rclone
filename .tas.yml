@@ -6,3 +6,4 @@ preMerge:
 postMerge:
   pattern:
     - ""
+    #test
