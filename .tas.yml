@@ -1,0 +1,8 @@
+framework: golang
+version: "1.2.0"
+preMerge:
+  env:
+    RCLONE_CONFIG: /notfound
+postMerge:
+  pattern:
+    - ""
